@@ -1,3 +1,5 @@
+![The Office Screenshot](images/office_screenshot.png)
+
 # Project Name
 This project is a part of the [Data Science Working Group](http://datascience.codeforsanfrancisco.org) at [Code for San Francisco](http://www.codeforsanfrancisco.org).  Other DSWG projects can be found at the [main GitHub repo](https://github.com/sfbrigade/data-science-wg).
 
@@ -34,7 +36,8 @@ The purpose of this project is ________. (Describe the main goals of the project
 
 ## Needs of this project
 
-- frontend developers
+- data (*Script Lines from The Office*)
+    - data sourced from [Kaggle](https://www.kaggle.com/datasets/lillitarhea/the-office-script-lines).
 - data exploration/descriptive statistics
 - data processing/cleaning
 - statistical modeling
